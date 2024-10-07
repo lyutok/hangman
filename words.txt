@@ -1,0 +1,10 @@
+penguin
+alpaca
+whale
+snake
+coyote
+elephant
+donkey
+turtle
+crocodile
+rabbit
